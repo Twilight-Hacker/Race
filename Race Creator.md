@@ -18,8 +18,8 @@ Level 6 is hidden
 
 ## Vitality
 Level 1: 50 year life, heal 1, illness immunity 1, age ranges: 7/13/40
-Level 2: 80 years, heal 2, illness immunity 2, age ranges: 13/18/60
-Level 3: 140 years, heal 4, illness immunity 5, 20/35/120
+Level 2: 80 years, heal 2, illness immunity 3, age ranges: 13/18/60
+Level 3: 140 years, heal 4, illness immunity 7, 20/35/120
 Level 4: 400 years, heal 10, immunity 10, 50/130/360
 Level 5: 1000, heal 100, immunity all, 100/250/900
 Level 6: Ageless Immortal, heal all, immunity all, 150/400/-
@@ -49,17 +49,17 @@ These are irrelevant to the game and are provided for explanation purposes only
 
      Illness and Immunity
 A list of various illnesses by level
-Level 1:
-Level 2:
-Level 3:
-Level 4:
-Level 5:
-Level 6:
-Level 7:
-Level 8:
-Level 9:
-Level 10:
-Every level of immunity automatically defeats illnesses of level i-3 or lower, and fights off illnesses of up to level i-1. Level i illnesses are always potentially lethal. Immunity 10 means that level 10 illnesses are potentially lethal, and for levels 7-9 the individual might still become sick. Immunity all means that the people never become sick.
+Level 1: 
+Level 2: 
+Level 3: flu
+Level 4: 
+Level 5: 
+Level 6: 
+Level 7: 
+Level 8: 
+Level 9: tetanus, e-coli
+Level 10: Cancer, Black Death
+Every level of immunity automatically defeats illnesses of level i-3 or lower, and fights off illnesses of up to level i-1. Level i illnesses are always potentially lethal. Immunity 10 means that level 10 illnesses are potentially lethal, and for levels 7-9 the individual might still become sick. Immunity all means that the people never become sick. Immunity can be artificially increased through research.
 
 ## Intelligence
 Level 1: IQ 20, research 1/day/individual
@@ -83,7 +83,7 @@ Mutations grand changes to minor Attributes and adjustments to major attributes.
  Blood color: red, green, blue, white, black
  Sex diff: complete, changable, hermafrodite
  Number of eyes: 1, 2, 3, multiple (like spiders), hud (like bees)
- Base: Human, Arachnid, Xeno (alien), Beast
+ Base: Human (bipodal), Arachnid, Xeno (alien), Beast (four-legged)
  Avatar: an animal (mostly for face characteristics)
 
 ## Minor Attributes
