@@ -1,6 +1,6 @@
 Technology tree upgrades and effects
 
-Each upgrade has an age (can only be researched during a set age), an IQ requirement that must be met by a race for thenadvancement to become available, and a research goal, that represents the amount of research required for the discovery.
+Each upgrade has an age (can only be researched during a set age), an IQ requirement that must be met by a race for the advancement to become available, and a research goal, that represents the amount of research required for the discovery.
 
 If an upgrade is added at a later time into the tree, and it belonges to a past age, the discovery is offered for free.
 
@@ -16,7 +16,9 @@ Ages
  Argiculture Age
  Iron Age
  Seafering Age
+ City-State Age
  Feudal Age
+ Countries Age
  Middle Ages
  Renaisance
  Exploration Age
