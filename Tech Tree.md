@@ -10,30 +10,8 @@ There will be mechanisms to discourage the continuous research of a few chains o
 
 for each age to end and the next to begin, certain requirements must be met that include certain discoveries (not only technological advancements), an amount (not many) of generations in peace or at war, a level of wealth above a limit for some time, and an adundance of food.
 
-Ages
- Ice Age
- Stone Age
- Argiculture Age
- Iron Age
- Seafering Age
- City-State Age
- Feudal Age
- Countries Age
- Middle Ages
- Renaisance
- Exploration Age
- Colonisation Age
- Industrial Age
- Automation Age
- Information Age
- Space Age
- Space Exploration Age
- Space Colonisation Age
- First Contact Age
- Space War Age
- Space Trade Age
- Space Union Age
- 
+Exact analysis on external note
+
  
  
  
