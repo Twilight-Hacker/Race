@@ -49,16 +49,18 @@ These are irrelevant to the game and are provided for explanation purposes only
 
      Illness and Immunity
 A list of various illnesses by level
-Level 1: 
-Level 2: 
-Level 3: flu
-Level 4: 
-Level 5: 
-Level 6: 
-Level 7: 
-Level 8: 
-Level 9: tetanus, e-coli
-Level 10: Cancer, Black Death
+<li>
+*Level 1: 
+*Level 2: 
+*Level 3: flu
+*Level 4: 
+*Level 5: 
+*Level 6: 
+*Level 7: 
+*Level 8: 
+*Level 9: tetanus, e-coli
+*Level 10: Cancer, Black Death
+</li>
 Every level of immunity automatically defeats illnesses of level i-3 or lower, and fights off illnesses of up to level i-1. Level i illnesses are always potentially lethal. Immunity 10 means that level 10 illnesses are potentially lethal, and for levels 7-9 the individual might still become sick. Immunity all means that the people never become sick. Immunity can be artificially increased through research.
 
 ## Intelligence
@@ -106,14 +108,4 @@ Mutations grand changes to minor Attributes and adjustments to major attributes.
  The averages are not shown to the players
  Breath intake: Oxygen, Methane, Nitrogen, Carbon oxides, anything, void
  Breath method: air, liquid, any, void (if and only if intake is void)
- Food intake (relevant to breath) biological, any, void
  Speed (average): Strength / Weight in km/h walking
- 
-One needs cabron intake from at least one source
-
-
-
-
-
-
-
