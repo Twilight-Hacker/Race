@@ -10,6 +10,7 @@ Parameters possesed by All buildings
  Safety: Descreases failure/accident chance. Upgrades may also decrease the maximum failure severity.
  Production type: What it produces (Food:type, Energy:type, Protection, Comfort)
  Production bonus: Bonus offered to the production of the building, without increase in allocation required, as long as the building is operational. Starting at 0.
+ Allocation Capacity: The total number of workers that can be allocated to this building. The total allocation capatity for the production of the city for a production type, is the total of all the buildings of that production type in the city.
  Available through: The tech advancement required to make the building available for construction.
  Cost: the cost of the building (in wealth). Increases with new offered upgrades.
 
